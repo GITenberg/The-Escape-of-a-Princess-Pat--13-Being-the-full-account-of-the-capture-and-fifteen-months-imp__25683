@@ -1,0 +1,33 @@
+_repo: The-Escape-of-a-Princess-Pat--13-Being-the-full-account-of-the-capture-and-fifteen-months-imp__25683
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25683-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Edwards, Edward
+    birthdate: 1876
+    gutenberg_agent_id: '46112'
+    url: http://www.gutenberg.org/2009/agents/46112
+  - agent_name: Pearson, George
+    gutenberg_agent_id: '31503'
+    url: http://www.gutenberg.org/2009/agents/31503
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Canadian'
+- !lcsh 'Prisoner-of-war escapes'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- !lcc 'D501'
+title: "The Escape of a Princess Pat\r\nBeing the full account of the capture and\
+  \ fifteen months' imprisonment of Corporal Edwards, of the Princess Patricia's Canadian\
+  \ Light Infantry, and his final escape from Germany into Holland"
+url: http://www.gutenberg.org/ebooks/25683
